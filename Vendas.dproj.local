@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/10/24 18:33:50.000.597,=C:\Users\digra\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/24 18:34:45.000.200,=C:\Users\digra\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/10/24 19:41:51.000.562,C:\Users\digra\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas=C:\Pedido Vendas\Unit2.pas</Transaction>
+    <Transaction>2020/10/24 19:41:51.000.562,C:\Users\digra\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.dfm=C:\Pedido Vendas\Unit2.dfm</Transaction>
+    <Transaction>2020/10/24 19:41:54.000.693,C:\Users\digra\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Pedido Vendas\Unit1.pas</Transaction>
+    <Transaction>2020/10/24 19:41:54.000.693,C:\Users\digra\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Pedido Vendas\Unit1.dfm</Transaction>
+    <Transaction>2020/10/24 19:41:57.000.124,C:\Users\digra\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Pedido Vendas\Project1.dproj</Transaction>
+    <Transaction>2020/10/24 20:55:09.000.300,C:\Pedido Vendas\Unit2.dfm=C:\Pedido Vendas\uDMVendas.dfm</Transaction>
+    <Transaction>2020/10/24 20:55:09.000.300,C:\Pedido Vendas\Unit2.pas=C:\Pedido Vendas\uDMVendas.pas</Transaction>
+    <Transaction>2020/10/24 20:55:57.000.629,C:\Pedido Vendas\Unit1.pas=C:\Pedido Vendas\uPedidoVendas.pas</Transaction>
+    <Transaction>2020/10/24 20:55:57.000.629,C:\Pedido Vendas\Unit1.dfm=C:\Pedido Vendas\uPedidoVendas.dfm</Transaction>
+    <Transaction>2020/10/24 20:57:13.000.631,C:\Pedido Vendas\Project1.dproj=C:\Pedido Vendas\Vendas.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
